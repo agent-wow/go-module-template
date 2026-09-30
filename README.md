@@ -5,7 +5,7 @@ A reference module template for agent-wow.
 This example queries the worldserver's time and exposes the latest reply through
 an RPC, demonstrating packet sending and receiving, the session clock, and a logout hook.
 
-**Refer to the [agent-wow repository](https://github.com/agent-wow/agent-wow) for the fulldocumentation on modules.**
+**Refer to the [agent-wow repository](https://github.com/agent-wow/agent-wow) for the full documentation on modules.**
 
 ## Structure
 
