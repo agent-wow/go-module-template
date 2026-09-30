@@ -3,7 +3,7 @@ module github.com/agent-wow/go-module-template
 go 1.27.1
 
 require (
-	github.com/agent-wow/agent-wow v0.0.0-20260930114041-f64f9e62f51b
+	github.com/agent-wow/agent-wow v0.0.0-20260930222836-8a0fb4861c5e // v0.1 release (upstream tag omits the patch version)
 	google.golang.org/grpc v1.79.3
 	google.golang.org/protobuf v1.36.10
 )
